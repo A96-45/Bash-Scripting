@@ -31,13 +31,3 @@ Screenshots are stored in the `screenshots/` folder.
 
 ![Infrastructure setup screenshot - Final steps](screenshots/Screenshot%20From%202026-06-02%2022-23-11.png)
 
-## Usage
-
-1. Open the script you want to run.
-2. Make the script executable if necessary: `chmod +x <script-name>.sh`
-3. Run the script: `./<script-name>.sh`
-
-## Notes
-
-- The screenshots are referenced relative to this README and should render correctly on GitHub or other Markdown viewers.
-- Adjust the descriptions above if you want to match the exact behavior of each script more closely.
